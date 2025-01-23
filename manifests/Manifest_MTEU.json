@@ -1,0 +1,257 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://martinatazzini99.github.io/TMDRA_MTEU/manifests/Manifest_MTEU.json",
+  "@type" : "sc:Manifest",
+  "label" : "TMDRA Project",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "10 images for 10 categories.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Martina Tazzini, Emir Unverdi",
+  "sequences" : [ {
+    "@id" : "http://648ef6d6-d76e-43f5-b264-3de95700a97f",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://d06308a4-9bbd-4195-8baa-a0f7220e1cc5",
+      "@type" : "sc:Canvas",
+      "label" : "Deer",
+      "height" : 3622,
+      "width" : 2425,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://7512d6c9-a1dd-47fc-b8fa-860a6177d07b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://martinatazzini99.github.io/TMDRA_MTEU/images/deer/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://martinatazzini99.github.io/TMDRA_MTEU/images/deer",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3622,
+          "width" : 2425
+        },
+        "on" : "http://d06308a4-9bbd-4195-8baa-a0f7220e1cc5"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://e09936f5-6959-4a72-bab5-95d38d221dcd",
+      "@type" : "sc:Canvas",
+      "label" : "Bird",
+      "height" : 3234,
+      "width" : 4844,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://93840d71-f4fe-4e21-8439-fe527f950b03",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://martinatazzini99.github.io/TMDRA_MTEU/images/bird/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://martinatazzini99.github.io/TMDRA_MTEU/images/bird",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3234,
+          "width" : 4844
+        },
+        "on" : "http://e09936f5-6959-4a72-bab5-95d38d221dcd"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://1d532567-9053-4ad1-94eb-4ca648061201",
+      "@type" : "sc:Canvas",
+      "label" : "Ship",
+      "height" : 1795,
+      "width" : 2880,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0f024043-b5ca-4735-837c-8a0a79dd810a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://martinatazzini99.github.io/TMDRA_MTEU/images/ship/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://martinatazzini99.github.io/TMDRA_MTEU/images/ship",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1795,
+          "width" : 2880
+        },
+        "on" : "http://1d532567-9053-4ad1-94eb-4ca648061201"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://5ad92a37-9e80-4da4-9391-f470a8f078dd",
+      "@type" : "sc:Canvas",
+      "label" : "Dog",
+      "height" : 3456,
+      "width" : 5184,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://395720fe-80d6-4d0b-8c9a-195e11f7ef24",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://martinatazzini99.github.io/TMDRA_MTEU/images/dog/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://martinatazzini99.github.io/TMDRA_MTEU/images/dog",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3456,
+          "width" : 5184
+        },
+        "on" : "http://5ad92a37-9e80-4da4-9391-f470a8f078dd"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://56f4b53b-8b6f-46c7-b463-e1a1788d4c5e",
+      "@type" : "sc:Canvas",
+      "label" : "Automobile",
+      "height" : 5472,
+      "width" : 3648,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://97f22cf3-612f-4d02-a8ea-860d69231082",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://martinatazzini99.github.io/TMDRA_MTEU/images/automobile/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://martinatazzini99.github.io/TMDRA_MTEU/images/automobile",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5472,
+          "width" : 3648
+        },
+        "on" : "http://56f4b53b-8b6f-46c7-b463-e1a1788d4c5e"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://0bbf9ff1-1258-47c7-b667-a7670d7da71f",
+      "@type" : "sc:Canvas",
+      "label" : "Horse",
+      "height" : 4000,
+      "width" : 6000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4ca0dde5-6443-46e1-8c3d-103adcd4da13",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://martinatazzini99.github.io/TMDRA_MTEU/images/horse/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://martinatazzini99.github.io/TMDRA_MTEU/images/horse",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4000,
+          "width" : 6000
+        },
+        "on" : "http://0bbf9ff1-1258-47c7-b667-a7670d7da71f"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://8a356378-d82f-45e1-a3dd-623deb67fdcc",
+      "@type" : "sc:Canvas",
+      "label" : "Truck",
+      "height" : 2638,
+      "width" : 5081,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8c3ad532-d3a5-4333-811e-b8f07e0d47c4",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://martinatazzini99.github.io/TMDRA_MTEU/images/truck/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://martinatazzini99.github.io/TMDRA_MTEU/images/truck",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2638,
+          "width" : 5081
+        },
+        "on" : "http://8a356378-d82f-45e1-a3dd-623deb67fdcc"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://5670be5c-aba7-4364-9c25-230f62fe2f4f",
+      "@type" : "sc:Canvas",
+      "label" : "Frog",
+      "height" : 3456,
+      "width" : 5184,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a0d33b35-5a92-4729-838b-1d58faae4e29",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://martinatazzini99.github.io/TMDRA_MTEU/images/frog/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://martinatazzini99.github.io/TMDRA_MTEU/images/frog",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3456,
+          "width" : 5184
+        },
+        "on" : "http://5670be5c-aba7-4364-9c25-230f62fe2f4f"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://692875be-446f-4edc-84cb-810f8c797412",
+      "@type" : "sc:Canvas",
+      "label" : "Airplane",
+      "height" : 4000,
+      "width" : 6000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2fb8c536-e5a0-41ad-afe8-9443185f6dd9",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://martinatazzini99.github.io/TMDRA_MTEU/images/airplane/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://martinatazzini99.github.io/TMDRA_MTEU/images/airplane",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4000,
+          "width" : 6000
+        },
+        "on" : "http://692875be-446f-4edc-84cb-810f8c797412"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
