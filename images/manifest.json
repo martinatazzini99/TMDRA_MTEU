@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in martinatazzini99/TMDRA_MTEU project"
+        ]
+    },
+    "items": []
+}
