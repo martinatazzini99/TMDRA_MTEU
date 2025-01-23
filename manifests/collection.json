@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://martinatazzini99.github.io/TMDRA_MTEU/manifests/Manifest_MTEU.json",
     "label" : "TMDRA Project"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://martinatazzini99.github.io/TMDRA_MTEU/manifests/Manifest_TMDRA_MTEU.json",
+    "label" : "TMDRA Project"
   } ]
 }
