@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 90,
+    "height" : 57
+  }, {
+    "width" : 180,
+    "height" : 113
+  }, {
+    "width" : 360,
+    "height" : 225
+  }, {
+    "width" : 720,
+    "height" : 449
+  }, {
+    "width" : 1440,
+    "height" : 898
+  }, {
+    "width" : 2880,
+    "height" : 1795
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2880,
+  "@id" : "https://martinatazzini99.github.io/TMDRA_MTEU/images/ship",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1795
+}
