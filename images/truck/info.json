@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 159,
+    "height" : 83
+  }, {
+    "width" : 318,
+    "height" : 165
+  }, {
+    "width" : 636,
+    "height" : 330
+  }, {
+    "width" : 1271,
+    "height" : 660
+  }, {
+    "width" : 2541,
+    "height" : 1319
+  }, {
+    "width" : 5081,
+    "height" : 2638
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 5081,
+  "@id" : "https://martinatazzini99.github.io/TMDRA_MTEU/images/truck",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2638
+}
