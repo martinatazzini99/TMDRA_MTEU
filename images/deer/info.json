@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 76,
+    "height" : 114
+  }, {
+    "width" : 152,
+    "height" : 227
+  }, {
+    "width" : 304,
+    "height" : 453
+  }, {
+    "width" : 607,
+    "height" : 906
+  }, {
+    "width" : 1213,
+    "height" : 1811
+  }, {
+    "width" : 2425,
+    "height" : 3622
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2425,
+  "@id" : "https://martinatazzini99.github.io/TMDRA_MTEU/images/deer",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3622
+}

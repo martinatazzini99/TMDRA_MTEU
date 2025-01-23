@@ -9,6 +9,87 @@
     },
     "items": [
         {
+            "id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/cat/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "cat"
+                ]
+            },
+            "height": 3456,
+            "width": 5184,
+            "items": [
+                {
+                    "id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/cat/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/cat/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/cat/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 162,
+                                                "height": 108
+                                            },
+                                            {
+                                                "width": 324,
+                                                "height": 216
+                                            },
+                                            {
+                                                "width": 648,
+                                                "height": 432
+                                            },
+                                            {
+                                                "width": 1296,
+                                                "height": 864
+                                            },
+                                            {
+                                                "width": 2592,
+                                                "height": 1728
+                                            },
+                                            {
+                                                "width": 5184,
+                                                "height": 3456
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 5184,
+                                        "@id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/cat",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3456,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://martinatazzini99.github.io/TMDRA_MTEU/images/cat/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/gary-lopater-dOOGrK3zcUc-unsplash/canvas/",
             "type": "Canvas",
             "label": {
@@ -333,6 +414,87 @@
             ]
         },
         {
+            "id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/dog/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "dog"
+                ]
+            },
+            "height": 3456,
+            "width": 5184,
+            "items": [
+                {
+                    "id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/dog/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/dog/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/dog/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 162,
+                                                "height": 108
+                                            },
+                                            {
+                                                "width": 324,
+                                                "height": 216
+                                            },
+                                            {
+                                                "width": 648,
+                                                "height": 432
+                                            },
+                                            {
+                                                "width": 1296,
+                                                "height": 864
+                                            },
+                                            {
+                                                "width": 2592,
+                                                "height": 1728
+                                            },
+                                            {
+                                                "width": 5184,
+                                                "height": 3456
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 5184,
+                                        "@id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/dog",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3456,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://martinatazzini99.github.io/TMDRA_MTEU/images/dog/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/ship/canvas/",
             "type": "Canvas",
             "label": {
@@ -408,6 +570,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://martinatazzini99.github.io/TMDRA_MTEU/images/ship/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/deer/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "deer"
+                ]
+            },
+            "height": 3622,
+            "width": 2425,
+            "items": [
+                {
+                    "id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/deer/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/deer/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/deer/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 76,
+                                                "height": 114
+                                            },
+                                            {
+                                                "width": 152,
+                                                "height": 227
+                                            },
+                                            {
+                                                "width": 304,
+                                                "height": 453
+                                            },
+                                            {
+                                                "width": 607,
+                                                "height": 906
+                                            },
+                                            {
+                                                "width": 1213,
+                                                "height": 1811
+                                            },
+                                            {
+                                                "width": 2425,
+                                                "height": 3622
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2425,
+                                        "@id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/deer",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3622,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://martinatazzini99.github.io/TMDRA_MTEU/images/deer/canvas/"
                         }
                     ]
                 }
