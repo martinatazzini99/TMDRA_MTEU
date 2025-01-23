@@ -414,6 +414,87 @@
             ]
         },
         {
+            "id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/automobile/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "automobile"
+                ]
+            },
+            "height": 5472,
+            "width": 3648,
+            "items": [
+                {
+                    "id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/automobile/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/automobile/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/automobile/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 114,
+                                                "height": 171
+                                            },
+                                            {
+                                                "width": 228,
+                                                "height": 342
+                                            },
+                                            {
+                                                "width": 456,
+                                                "height": 684
+                                            },
+                                            {
+                                                "width": 912,
+                                                "height": 1368
+                                            },
+                                            {
+                                                "width": 1824,
+                                                "height": 2736
+                                            },
+                                            {
+                                                "width": 3648,
+                                                "height": 5472
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3648,
+                                        "@id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/automobile",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 5472,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://martinatazzini99.github.io/TMDRA_MTEU/images/automobile/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/dog/canvas/",
             "type": "Canvas",
             "label": {
@@ -651,6 +732,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://martinatazzini99.github.io/TMDRA_MTEU/images/deer/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/bird/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "bird"
+                ]
+            },
+            "height": 3234,
+            "width": 4844,
+            "items": [
+                {
+                    "id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/bird/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/bird/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/bird/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 152,
+                                                "height": 102
+                                            },
+                                            {
+                                                "width": 303,
+                                                "height": 203
+                                            },
+                                            {
+                                                "width": 606,
+                                                "height": 405
+                                            },
+                                            {
+                                                "width": 1211,
+                                                "height": 809
+                                            },
+                                            {
+                                                "width": 2422,
+                                                "height": 1617
+                                            },
+                                            {
+                                                "width": 4844,
+                                                "height": 3234
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 4844,
+                                        "@id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/bird",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3234,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://martinatazzini99.github.io/TMDRA_MTEU/images/bird/canvas/"
                         }
                     ]
                 }
