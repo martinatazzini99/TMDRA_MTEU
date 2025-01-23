@@ -1,0 +1,13 @@
+{
+  "id" : "https://martinatazzini99.github.io/TMDRA_MTEU/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in martinatazzini99/TMDRA_MTEU project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://martinatazzini99.github.io/TMDRA_MTEU/manifests/Manifest_MTEU.json",
+    "label" : "TMDRA Project"
+  } ]
+}
