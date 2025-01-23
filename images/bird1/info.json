@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 114,
+    "height" : 76
+  }, {
+    "width" : 227,
+    "height" : 152
+  }, {
+    "width" : 454,
+    "height" : 303
+  }, {
+    "width" : 908,
+    "height" : 605
+  }, {
+    "width" : 1815,
+    "height" : 1210
+  }, {
+    "width" : 3630,
+    "height" : 2420
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3630,
+  "@id" : "https://martinatazzini99.github.io/TMDRA_MTEU/images/bird1",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2420
+}

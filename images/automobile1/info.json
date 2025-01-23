@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 154,
+    "height" : 103
+  }, {
+    "width" : 307,
+    "height" : 205
+  }, {
+    "width" : 614,
+    "height" : 410
+  }, {
+    "width" : 1228,
+    "height" : 819
+  }, {
+    "width" : 2456,
+    "height" : 1637
+  }, {
+    "width" : 4911,
+    "height" : 3274
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 4911,
+  "@id" : "https://martinatazzini99.github.io/TMDRA_MTEU/images/automobile1",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3274
+}

@@ -171,6 +171,87 @@
             ]
         },
         {
+            "id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/bird1/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "bird1"
+                ]
+            },
+            "height": 2420,
+            "width": 3630,
+            "items": [
+                {
+                    "id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/bird1/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/bird1/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/bird1/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 114,
+                                                "height": 76
+                                            },
+                                            {
+                                                "width": 227,
+                                                "height": 152
+                                            },
+                                            {
+                                                "width": 454,
+                                                "height": 303
+                                            },
+                                            {
+                                                "width": 908,
+                                                "height": 605
+                                            },
+                                            {
+                                                "width": 1815,
+                                                "height": 1210
+                                            },
+                                            {
+                                                "width": 3630,
+                                                "height": 2420
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3630,
+                                        "@id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/bird1",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2420,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://martinatazzini99.github.io/TMDRA_MTEU/images/bird1/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/frog/canvas/",
             "type": "Canvas",
             "label": {
@@ -489,6 +570,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://martinatazzini99.github.io/TMDRA_MTEU/images/automobile/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/automobile1/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "automobile1"
+                ]
+            },
+            "height": 3274,
+            "width": 4911,
+            "items": [
+                {
+                    "id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/automobile1/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/automobile1/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/automobile1/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 154,
+                                                "height": 103
+                                            },
+                                            {
+                                                "width": 307,
+                                                "height": 205
+                                            },
+                                            {
+                                                "width": 614,
+                                                "height": 410
+                                            },
+                                            {
+                                                "width": 1228,
+                                                "height": 819
+                                            },
+                                            {
+                                                "width": 2456,
+                                                "height": 1637
+                                            },
+                                            {
+                                                "width": 4911,
+                                                "height": 3274
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 4911,
+                                        "@id": "https://martinatazzini99.github.io/TMDRA_MTEU/images/automobile1",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3274,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://martinatazzini99.github.io/TMDRA_MTEU/images/automobile1/canvas/"
                         }
                     ]
                 }
